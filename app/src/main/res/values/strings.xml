@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KiemTra</string>
+    <string name="th_m_th_nh_vi_n">Thêm Thành Viên</string>
+    <string name="s_a_th_nh_vi_n">Sửa Thành Viên</string>
+</resources>
